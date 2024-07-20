@@ -45,12 +45,7 @@ The Social Media Website Without Human is a unique platform designed to ensure t
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** ASP.NET 5.0
-- **Image Processing:** OpenCV, TensorFlow
 
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/KR4YIR/MyPade.git
 
-"# MyPade" 
+
 "# My-Pade" 
