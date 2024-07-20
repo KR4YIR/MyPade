@@ -1,0 +1,75 @@
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Desktop\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\ib\Documents\Visual Studio Repositories\garbage\Core_Proje\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Hakan\OneDrive - Tora\Documents\Visual Studio 2022\ib\Core_Proje\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Core_Proje\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll

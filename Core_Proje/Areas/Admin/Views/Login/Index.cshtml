@@ -1,0 +1,25 @@
+﻿@model Core_Proje.Areas.Admin.Models.UserLoginViewModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+@await Html.PartialAsync("~/Views/Default/HeadPartial.cshtml")
+<body>
+    <partial name="LoginNavBarPartial" />
+    <main class="signup-page">
+        <h1 class="signup-title">Log In Your Account</h1>
+        <form class="signup-form" method="post">
+
+            <label for="username">Username</label>
+            <input type="text" placeholder="Username" name="Username" id="email">
+
+            <label for="password">Password</label>
+            <input name="Password" placeholder="Password" type="password" id="password" >
+
+            <button type="submit" class="btn btn-primary">Sign In</button>
+        </form>
+    </main>
+    @await Html.PartialAsync("~/Views/Default/FooterPartial.cshtml")
+</body>
+</html>

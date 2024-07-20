@@ -1,0 +1,32 @@
+@import url(https://kit.fontawesome.com/794e32bcdc.js);
+.signup-page {
+    margin-inline: 30%;
+    margin-bottom: 50px;
+    height: 72vh;
+}
+.signup-title{
+    margin-top: 25px;
+    text-align: center;
+}
+.signup-page label,
+.signup-page input:not([type="checkbox"]),
+.signup-page select,
+.signup-page button {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+}
+.signup-form input[type="checkbox"],
+.signup-form input[type="checkbox"]+label{
+    display: inline-block;
+    width: auto;
+}
+.signup-form button[type="submit"]{
+    margin-top: 15px;
+    display: block;
+}
+.signup-form input:not([type="checkbox"]),
+.signup-form select{
+    border: 1px solid #ccc;
+    padding: 10px 15px;
+}

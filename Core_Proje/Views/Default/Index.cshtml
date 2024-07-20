@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "View";
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+@await Html.PartialAsync("~/Views/Default/HeadPartial.cshtml")
+<body>
+    
+
+    <partial name="LoginNavBarPartial" />
+    <section class="main">
+    
+        <div id="bg" class="bg-image1">
+            <div class="caption">
+                <span class="border">WELCOME</span>
+
+            </div>
+        </div>
+        <div class="box">
+            <h2>GEZI GUNLUGUNE DEVAM ETMEK ICIN GIRIS YAP</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima error, accusamus vel repudiandae laboriosam architecto ad ipsa esse fugiat ipsam maxime vero perspiciatis veniam, quas, amet reiciendis unde. Tenetur, aperiam?</p>
+        </div>
+        <div id="bg" class="bg bg-image2">
+        </div>
+    </section>
+    @await Html.PartialAsync("~/Views/Default/FooterPartial.cshtml")
+
+</body>
+</html>

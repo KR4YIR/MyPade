@@ -1,0 +1,40 @@
+﻿@* @using EntityLayer.Concrete
+@model List<Sal>
+<style>
+    .row {
+        display: flex;
+    }
+
+    .col-half {
+        width: 50%;
+        padding: 10px;
+        box-sizing: border-box;
+        background-color: #F4A460; /* Wheat renginden bir tık koyusu */
+        border: 1px solid #DEB887; /* Wheat rengi */
+        text-align: center;
+        color: black;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        .col-half:hover {
+            background-color: #DEB887; /* Hover sırasında wheat rengi */
+        }
+</style>
+@foreach (var item in Enumerable.Reverse(Model))
+{
+ 
+    <div id="element" class="center">
+        <div class="element-head">
+            <a href="#">@item.User.UserName</a>
+        </div>
+        <div class="element-img">
+            <img src="/userimage/@item.Image" alt="">
+        </div>
+        <div class="row">
+            <div class="col-half">@item.Category</div>
+            <div class="col-half">@item.City</div>
+        </div>
+
+    </div>
+} *@

@@ -1,0 +1,27 @@
+#element {
+    background-color: wheat;
+}
+
+
+    #element a {
+        text-decoration: none;
+        font-size: larger;
+        font-weight: bold;
+        color: black;
+    }
+
+.element-head {
+    background-color: #8ECDDD;
+    padding: 10px;
+}
+
+.element-img {
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+}
+
+.center {
+    margin: auto;
+    width: 500px;
+}
